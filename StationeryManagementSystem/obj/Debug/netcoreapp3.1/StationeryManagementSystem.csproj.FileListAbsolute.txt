@@ -1,0 +1,11 @@
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.exe
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.deps.json
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.runtimeconfig.json
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.runtimeconfig.dev.json
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.dll
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\bin\Debug\netcoreapp3.1\StationeryManagementSystem.pdb
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\obj\Debug\netcoreapp3.1\StationeryManagementSystem.csprojAssemblyReference.cache
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\obj\Debug\netcoreapp3.1\StationeryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\obj\Debug\netcoreapp3.1\StationeryManagementSystem.AssemblyInfo.cs
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\obj\Debug\netcoreapp3.1\StationeryManagementSystem.dll
+C:\Users\uwon1\OneDrive - Staffordshire University\Staffordshire University\SDAM\csAssignment\StationeryManagementSystem\obj\Debug\netcoreapp3.1\StationeryManagementSystem.pdb
